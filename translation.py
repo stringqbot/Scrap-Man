@@ -27,5 +27,5 @@ cara ambil APP ID dan API HASH secara manual
 bila berhasil ambil manual silahkan coba lagi di bot ini"""
     CANCELLED_MESG = "byee! silahkan /start kembali untuk mengulang"
     IN_VALID_CODE_PVDED = "kode OTP yang km masukan SALAH"
-    IN_VALID_PHNO_PVDED = "no HP yang km masukan SALAH, silahkan masukan nomor telepon telegram dengan format kode negara.
-,\ncontoh: +628xxxxxxx"
+    IN_VALID_PHNO_PVDED = "no HP yang km masukan SALAH, silahkan masukan nomor telepon telegram dengan format kode,
+/ncontoh: +628xxxxxxx"
